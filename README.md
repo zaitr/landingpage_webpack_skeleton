@@ -1,4 +1,4 @@
-# Webpack 5 boilerplate for landingpages.e
+# Webpack 5 boilerplate for landingpages
 
 ## Installation
 
